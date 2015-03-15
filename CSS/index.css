@@ -1,0 +1,14 @@
+/*colors:
+ * #0000cd medium blue
+ * #87cefa light sky blue
+ * #ffffff white*/
+body{
+background: #87cefa;
+}
+
+p {
+font-size: 24px;
+color: #eeeeee; 
+background: #0000cd; 
+padding: .5%;
+}
