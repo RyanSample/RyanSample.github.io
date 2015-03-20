@@ -3,7 +3,8 @@
  * #87cefa light sky blue
  * #ffffff white*/
 body{
-background: #87cefa;
+background-image: url("../Assets/cornish-sundown.jpg");
+background-size: cover;
 }
 
 p {
