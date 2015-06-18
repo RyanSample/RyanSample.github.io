@@ -7,9 +7,29 @@ background-image: url("../Assets/cornish-sundown.jpg");
 background-size: cover;
 }
 
+ul{
+float:left;
+color: #eeeeee;  
+font-size: 20px;
+}
+li{
+margin-right: 10px;
+display: inline;
+float: left;
+}
+
 p {
 font-size: 24px;
 text-align: center;
 color: #eeeeee;  
 padding: .5%;
+}
+
+#content{
+/*float:left;*/
+clear:left;
+}
+
+#top_menu{
+list-style-type:none;
 }
