@@ -12,25 +12,30 @@ float:left;
 color: #eeeeee;  
 font-size: 20px;
 }
+
 li{
 margin-right: 10px;
 display: inline;
 float: left;
 }
+
 a{
 color:#eeeeee; 
 text-decoration: none;
 }
+
 p {
 font-size: 24px;
 text-align: center;
 color: #eeeeee;  
 padding: .5%;
 }
+
 h1{
 margin-left: 40px;
 color: #eeeeee;
 }
+
 #content{
 /*float:left;*/
 clear:left;
