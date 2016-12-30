@@ -11,9 +11,14 @@ p{
 }
 
 .thumbnail:hover{
-  padding: 20px;
+  background-color: #acc0e0;
 }
 
 p.thumbnailDescription{
   font-size: 14px;
+}
+
+.img-area{
+  height: 300px;
+  overflow: none;
 }
