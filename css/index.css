@@ -22,3 +22,7 @@ p.thumbnailDescription{
   height: 300px;
   overflow: none;
 }
+
+.max-img-width{
+  width: 300px;
+}

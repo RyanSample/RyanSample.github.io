@@ -249,3 +249,12 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.noDecoration, a:link, a:visited{
+  text-decoration: none;
+}
+
+.projectLinkArea, .projectLinkArea:hover, .projectLinkArea:link, .projectLinkArea:active, .projectLinkArea:visited {
+  text-decoration: none;
+  color: inherit;
+}
